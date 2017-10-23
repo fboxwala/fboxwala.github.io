@@ -47,7 +47,7 @@ candidates will be hired. The main idea of apprenticeship programs are that tech
 diverse experiential backgrounds, and train them for a career at tech. After this general introduction Vivek 
 explained the structure and steps taken in Twilio's apprenticeship program.
 
-Viveks talk was followed by a panel entitled [Tech Apprenticeship: The Solution for Diversity and Talent Gaps](https://sf17.techinclusion.co/agenda/session/208363). The panel turned out to be very specifically about an apprenticeship
+Vivek's talk was followed by a panel entitled [Tech Apprenticeship: The Solution for Diversity and Talent Gaps](https://sf17.techinclusion.co/agenda/session/208363). The panel turned out to be very specifically about an apprenticeship
 non-profit called Apprenti. The panelists discussed the success of the Apprenti program at Amazon and Avo. The most
 important part of these programs, according to the panelists, was the effective mentorship they provided to the
 apprentices. One prevailing idea in tech is that people should be able to figure things out on their own 
@@ -69,7 +69,119 @@ People of color are disproportionately punished in the tech industry for not hav
 in perceptions and culture, systemic discrimination will affect apprenticeship programs as much as regular hiring
 processes.
 
-## Disability in Tech Track
-On this track I attended 
+### Disability in Tech Track
+On this track I attended a talk by Emily Beitiks from the [Longmore Institute on Disability](http://longmoreinstitute.sfsu.edu/). Dr. Beitiks made a lot of really interesting points about the way that people with disabilities have
+to navigate the world of tech employment, and she gave easy to implement best practices that companies can use to be
+more inclusive. 
 
-That being said, I think apprenticeship programs  
+The tech industry can actually be a very good fit for many people with disabilities because of the kind of flexibility
+inherent in the positions. Working from home, project based deadlines and relaxed work environments all lend 
+themselves to inclusivity. However, some aspects of working in tech can be very difficult to deal with if you are a 
+person with a disability. One example I had not considered was that living in a tech hub such as SF is very 
+expensive, and while tech employees can afford it, it's not easy for people with disabilities to afford aid workers
+as they usually cannot afford to live in these areas.
+
+Dr. Beitiks also mentioned that tech really _needs_ to hire people with disabilities, because as with all forms of 
+diversity, a more diverse team will lead to a more interesting and generally useful product. A lot of diversity-in-tech discourse leaves out discussing being inclusive for people with disabilities. 
+
+Some best practices that can and should be implemented at tech companies to be more inclusive for people with
+disabilities:
+
+- Be extremely clear about accommodations during the hiring process and afterwards. Besides the legally-required-copy-
+paste text, also include langauge specifying what kind of accommodations the company specifically has implemented 
+already.
+- Plan for accommodations ahead of time. If the only option an interviewee has is to whiteboard code on a board that
+can't be reached from their wheelchair, you could have planned better.
+- Facilitate education for the workforce in more interesting ways besides regular newhire training. An example that
+Dr. Beitiks gave was a film festival.
+- Accomodations will not be one-size-fits-all. Have a well advertised and reasonable process for requesting new 
+accommodations, and be prepared to change your policies as new accommodations become necessary.
+
+Something else that was not mentioned explicitly by Dr. Beitiks but that I noticed she was doing, was having 
+descriptive text in her notes for all images used in her slides. She would read these descriptions out loud
+during her talk, and it is definitely a practice that I plan to implement in any future talks I give.
+
+Often the actual perspectives of people with disabilities are ignored or not considered, and Dr. Beitik has been
+ working to change this. You can visit the [Longmore Institute's](http://longmoreinstitute.sfsu.edu/) to learn
+more about her work.
+
+### Lightning Talks
+
+At the end of day one I attended two lightning talks. One was by Leanne Pittsford, the founder of Lesbians Who Tech.
+She described how Lesbians Who Tech started, and what lessons Silicon Valley can learn from their practices. 
+Leanne said a lot of useful things, but the talk was also really entertaining so I didn't take great notes. One
+statement that really struck me as useful was that language used in diversity and inclusion spaces can be specific
+and inclusive without being discriminatory. Lesbians Who Tech is an organization dedicated specifically to increasing
+the visibility of queer women in technology, and their [language around that is specific](https://lesbianswhotech.org/about/), but this does not mean that the organization does not work with allies to help achieve their goals.
+
+The second lightning talk I attended was by Blaze Starkey, a member of the Lakota people, who discussed digital
+colonialism. I thought that Blaze's talk was extremely important, as it was the only talk on indigenous rights
+at the conference, and I have basically never heard [settler colonialism](https://en.wikipedia.org/wiki/Settler_colonialism)  discussed as part of the conversation about diversity and inclusion in tech. Blaze gave some very concrete 
+examples of the way that settler colonialism manifests itself in the tech industry:
+
+- There is no keyboard for typing the Lakota language on phones
+- Facebook does not consider many indigenous names to be "real" and does not allow people to use them on their 
+platform 
+- Indigenous land on google maps shows up as vague gray blobs, difficult to find and not easy to identify _separate soveriegn lands_
+
+## Day 2
+
+On the second day of the conference I attended more talks about disability in tech, as well as two really great
+opening panels.
+
+### Technology and Policy
+
+The first panel of the day was about [Technology, Policy and Inclusion](https://sf17.techinclusion.co/agenda/session/208400). 
+The panel was comprised of Charlotte Burros, Jennifer Anastasoff, Scott Wiener and Kelly Jenkins-Pultz. One of the 
+most interesting discussions that took place with the panel was about tech's responsibility to the public sector. 
+Jennifer Anastasoff works for the US Digital Service, and gave examples of the ways that the USDS has been able
+to use tech to make government services more impactful. After a revamp of the interface used by veterans to
+sign up for health benefits, thousands more veterans were able to get access to healthcare than previously. What I 
+really took away from this panel was that the resources and skills we have in the tech industry can be used to a
+accomplish really amazing things for such a large portion of the population. As it stands, the majority of the 
+benefits and products created by the tech industry only affect the richest populations of the world. If the 
+skills of the tech industry were brought in to work _with_ governments and the public sector, we would be able to 
+create change for more people in a much more sustainable way.
+
+### Latinx in Tech
+This panel was comprised of Soledad Toledano, Maica Gil, Carolian Huaranca Mendoza, Lilibeth Gangas,  Rocio Medina van
+Nierop and Joe Vasquez, five latinx leaders in tech. The panel discussed each of their projects, and how they are 
+encouraging growth for other latinx people in tech. It was really great to hear about their experiences, and each
+of their stories were inspiring. 
+
+### Disability in Tech Track
+
+On this track I attended two talks. The first was by José Velasco, a co-lead for the Autism at Work program at SAP.
+The talk discussed the importance of neurodiversity in the workplace, and the success that SAP has had with building
+a recruitment program specific to hiring people with autism.
+
+At SAP the program has worked out very well, and some of the people hired through the program have become top
+technical contributors on their team. I think the success of the program points to a need in the industry
+for more programs like this, focused on hiring for neurodiversity. Like discussions about disability in tech,
+neurodiversity is often left out of the conversation.
+
+The second talk I attended on this track was about invisible disabilities in the workplace by Liz Travis Allen. Liz's 
+talk was very personal, and she shared her story of working in tech while also dealing with an invisible disability.
+Some things that Liz shared that can be helpful for those with invisible disabilities:
+
+- Give people the benefit of the doubt. Invisible disabilities are just that - invisible. You will often not be able
+to comprehend the scope at which people may have different needs, and not being believed makes life extremely 
+difficult for them.
+- Try to provide accommodations up front. It is extremely expensive in terms of social capital for people with
+disabilities to ask for accommodations, so being able to see that systems are already in place for accommodations
+can make a big difference
+- Check in with your teammates regularly. It is emotionally taxing for people with invisible disabilities to be upfront about when they are going through a difficult time. If others are checking in on them they feel more open to asking for support.
+
+## Tl;dr
+
+I spent the majority of the conference focused on talks about disability in tech diversity. I learned a lot of important 
+strategies for building inclusive workspaces, and was able to hear perspectives that I had not yet encountered. 
+
+I also got to see people who were underrepresented minorities speak publicly about their experiences and successes in tech
+which was really empowering and inspiring.
+
+The most important message of the conference for me was that tech suffers from a lack of empathy. This isn't a particularly
+revolutionary idea to me, but I think it bears repeating, over and over, loudly. The majority of the industry exists
+in a bubble, and does not consider the way that tech is having an impact on the world. For an industry growing as rapidly
+as tech is, empathy is essential. We need to build products and teams that are inclusive and diverse and accessible, and the
+first step to achieving this is building empathy.
