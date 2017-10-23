@@ -6,8 +6,7 @@ permalink: /techinclusion17
 
 Recently I was lucky enough to get to attend Tech Inclusion in San Fransisco, a conference focused on 
 Diversity and Inclusion work in tech. The company I am interning with was a sponsor of the conference
-so I was able to go for free (shoutout to my manager for encouraging me to sign up). One great thing about
-this was that, since I'm an intern and have very few responsibilities I was able to be wholly present for both days.
+so I was able to go for free (shoutout to my manager for encouraging me to sign up). 
 
 My overall impressions of the conference were positive. The first thing I noticed walking into the conference
 centre was the diversity of the attendees. Working in tech spaces means that I spend most of my time surrounded
@@ -20,6 +19,8 @@ experience.
 I definitely learned a lot by attending the panels, talks and workshops. A lot of the practical
 information I gained seemed geared towards managers, so I'm going to try to summarize the important points and 
 then share this post with people who can put it into action.
+
+This blog post runs a little long, so if you want, you can scroll to the bottom "tl;dr" section.
 
 ## Day One
 
@@ -44,7 +45,8 @@ for Diversity and Inclusion work, so that policies are enforced and effective.
 I attended one talk and one panel discussing apprenticeships in tech. [The talk](https://sf17.techinclusion.co/agenda/session/208362) was given by Vivek Nair, who bootstrapped Twilio's apprenticeship program. At Twilio, they are running
 an apprenticeship program that is comprised of a 6 month training program followed by a decision on whether 
 candidates will be hired. The main idea of apprenticeship programs are that tech companies pull in individuals with
-diverse experiential backgrounds, and train them for a career at tech. After this general introduction Vivek 
+diverse experiential backgrounds, and train them for a career at tech. These efforts are geared specifically to those who 
+do not have formal computer science/technology degrees. After this general introduction Vivek 
 explained the structure and steps taken in Twilio's apprenticeship program.
 
 Vivek's talk was followed by a panel entitled [Tech Apprenticeship: The Solution for Diversity and Talent Gaps](https://sf17.techinclusion.co/agenda/session/208363). The panel turned out to be very specifically about an apprenticeship
@@ -102,7 +104,7 @@ descriptive text in her notes for all images used in her slides. She would read 
 during her talk, and it is definitely a practice that I plan to implement in any future talks I give.
 
 Often the actual perspectives of people with disabilities are ignored or not considered, and Dr. Beitik has been
- working to change this. You can visit the [Longmore Institute's](http://longmoreinstitute.sfsu.edu/) to learn
+ working to change this. You can visit the [Longmore Institute's](http://longmoreinstitute.sfsu.edu/) website to learn
 more about her work.
 
 ### Lightning Talks
@@ -114,17 +116,19 @@ statement that really struck me as useful was that language used in diversity an
 and inclusive without being discriminatory. Lesbians Who Tech is an organization dedicated specifically to increasing
 the visibility of queer women in technology, and their [language around that is specific](https://lesbianswhotech.org/about/), but this does not mean that the organization does not work with allies to help achieve their goals.
 
-The second lightning talk I attended was by Blaze Starkey, a member of the Lakota people, who discussed digital
-colonialism. I thought that Blaze's talk was extremely important, as it was the only talk on indigenous rights
-at the conference, and I have basically never heard [settler colonialism](https://en.wikipedia.org/wiki/Settler_colonialism)  discussed as part of the conversation about diversity and inclusion in tech. Blaze gave some very concrete 
-examples of the way that settler colonialism manifests itself in the tech industry:
+The second lightning talk I attended was by Blaze Starkey, who is Lakota, living and working at Standing Rock, a part of the
+Lakota nation. Blaze discussed indigenous rights and digital colonialism in his talk. I thought that Blaze's talk was 
+extremely important, as it was the only talk on indigenous rights at the conference, and I have basically never heard 
+[settler colonialism](https://en.wikipedia.org/wiki/Settler_colonialism)  discussed as part of the conversation about 
+diversity and inclusion in tech. Blaze gave some very concrete examples of the way that settler colonialism manifests itself 
+in the tech industry:
 
 - There is no keyboard for typing the Lakota language on phones
 - Facebook does not consider many indigenous names to be "real" and does not allow people to use them on their 
 platform 
-- Indigenous land on google maps shows up as vague gray blobs, difficult to find and not easy to identify _separate soveriegn lands_
+- Indigenous land on Google Maps shows up as vague gray blobs, difficult to find and not easy to identify _separate soveriegn lands_
 
-## Day 2
+## Day Two
 
 On the second day of the conference I attended more talks about disability in tech, as well as two really great
 opening panels.
