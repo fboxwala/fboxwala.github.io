@@ -4,29 +4,24 @@ title: Speaking
 permalink: /speaking/
 ---
 
-### [Project 1](https://github.com/tux4kids/tuxmania) 
-Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula.
+## Talks
 
-***
+### [Manic PXE Dream Servers](http://mirror.csclub.uwaterloo.ca/csclub/fatema-manic-pxe-dream-servers.mp4)
+A short introductory talk about the PXE standard. What it is, the motivation
+for using it, and how it can be implemented.
 
-### [Project 2](https://github.com/AkshayAgarwal007/Moodly)
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam imperdiet urna eu dolor placerat varius. Vivamus eros augue, consequat id scelerisque nec, fringilla in est. Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula.
-
-Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula.
-
-***
-
-## Other Projects
-
-### This Could Be Another Project Name
-
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam imperdiet urna eu dolor placerat varius. Vivamus eros augue, consequat id scelerisque nec, fringilla in est. Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam imperdiet urna eu dolor placerat varius. Vivamus eros augue, consequat id scelerisque nec, fringilla in est. Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula.
-   
-### This Could Be Yet Another Project Name
-
-   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam imperdiet urna eu dolor placerat varius. Vivamus eros augue, consequat id scelerisque nec, fringilla in est. Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula.
+### [Unix 102](http://mirror.csclub.uwaterloo.ca/csclub/unix102-s17.mp4)
+A workshop given at the University of Waterloo for the Computer Science
+Club’s Unix10x series.
 
 
-## Contact me
+## Panel Moderation
 
-[agarwal.akshay.akshay8@gmail.com](mailto:agarwal.akshay.akshay8@gmail.com)
+### [STEM Feminism 101](http://csclub.uwaterloo.ca/media/Feminism%20in%20STEM%20-%20a%20101%20Panel)
+A panel organized by the University of Waterloo CS Club on how feminism manifests itself in STEM, specifically CS and Engineering.
+Panelists are Dr. Prabhakar Ragde, Swetha Kulandaivelan, and Filzah Nasir. Moderated by Fatema Boxwala. 
+
+### [Co-op Showcase Panel](http://wics.uwaterloo.ca/2016/01/coop-video-2016/)
+A panel for organized by the University of Waterloo Women in Computer Science
+Undergraduate Committee featuring women in the UW co-op program discussing
+their experiences with the program.
