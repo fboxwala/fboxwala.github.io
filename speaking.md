@@ -14,6 +14,10 @@ for using it, and how it can be implemented.
 A workshop given at the University of Waterloo for the Computer Science
 Club’s Unix10x series.
 
+### [Notworking With a Whale](https://starcon.io)
+[Slides](https://docs.google.com/presentation/d/1-ofnItCye4llYRnV6CoqptYxpwMmqU0KOeZFzKzT9Ds/edit?usp=sharing)
+A lightning talk presented at [starcon](https://starcon.io), a two-day conference held 
+at the University of Waterloo. 
 
 ## Panel Moderation
 
