@@ -41,6 +41,7 @@ their experiences with the program.
 
 ### Manifestations of Racism in STEM
 [Slides](https://docs.google.com/presentation/d/1KtPnNZ73Lj7yAqOMl_8M--MkFsgbJUjP3nGHmaWQHGc/edit?usp=sharing)
+
 A panel organized for the WPIRG's [2018 conference](http://wpirg.org/gettinorganizedconference/), _Getting Organized:
 Tools for Resisting Racism and White Supremacy_. A four person panel discussing the ways that racism manifests itself
 in STEM data collection, algorithms and environmental justice.
