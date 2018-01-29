@@ -1,6 +1,6 @@
 ---
 layout: page
-
+title: Speaking
 permalink: /speaking/
 ---
 
@@ -12,17 +12,26 @@ permalink: /speaking/
 A short introductory talk about the PXE standard. What it is, the motivation
 for using it, and how it can be implemented.
 
-### Unix 102
-[Video](http://mirror.csclub.uwaterloo.ca/csclub/unix102-s17.mp4)
-
-A workshop given at the University of Waterloo for the Computer Science
-Club’s Unix10x series.
 
 ### Notworking With a Whale
 [Video](https://starcon.io) | [Slides](https://docs.google.com/presentation/d/1-ofnItCye4llYRnV6CoqptYxpwMmqU0KOeZFzKzT9Ds/edit?usp=sharing)
 
 A lightning talk presented at [starcon](https://starcon.io), a two-day conference held 
 at the University of Waterloo. 
+
+## Workshops
+
+### Unix 102
+[Video](http://mirror.csclub.uwaterloo.ca/csclub/unix102-s17.mp4) | [Content](http://csclub.uwaterloo.ca/~fhboxwal/unix102/)
+
+A workshop given at the University of Waterloo for the Computer Science
+Club’s Unix10x series.
+
+### Intro to Git and Python Workshop
+[Content](https://github.com/fboxwala/intro-git-py-workshop)
+
+A one hour workshop presented at the SF Python monthly meetup. A short introduction to Git and GitHub using a simple
+Python module. 
 
 ## Panels and Moderation
 
