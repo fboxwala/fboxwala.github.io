@@ -1,3 +1,2 @@
----
-redirect_to: "https://docs.google.com/presentation/d/11FqpCLK9dRiBRYkLmP2YibEPB_0VfrO4OLLgtaVXQyI/edit?usp=sharing"
----
+<a href="https://docs.google.com/presentation/d/11FqpCLK9dRiBRYkLmP2YibEPB_0VfrO4OLLgtaVXQyI/edit?usp=sharing">This would be redirect but Jekyll was really not co-operating with me</a>
+
