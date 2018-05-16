@@ -14,7 +14,7 @@ for using it, and how it can be implemented.
 
 
 ### Notworking With a Whale
-[Video](https://starcon.io) | [Slides](https://docs.google.com/presentation/d/1-ofnItCye4llYRnV6CoqptYxpwMmqU0KOeZFzKzT9Ds/edit?usp=sharing)
+[Video](https://youtu.be/V4yX_O51jrU) | [Slides](https://docs.google.com/presentation/d/1-ofnItCye4llYRnV6CoqptYxpwMmqU0KOeZFzKzT9Ds/edit?usp=sharing)
 
 A lightning talk presented at [starcon](https://starcon.io), a two-day conference held 
 at the University of Waterloo. 
