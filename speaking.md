@@ -19,6 +19,11 @@ for using it, and how it can be implemented.
 A lightning talk presented at [starcon](https://starcon.io), a two-day conference held 
 at the University of Waterloo. 
 
+### Are your interns actually sad? The answer may surprise you!
+[Video](https://www.devopsdays.org/events/2018-silicon-valley/speakers/fatema-boxwala/) | [Slides](https://fbox.ca/dod18)
+
+A talk about how to be a successful mentor for interns in the DevOps space. Presented at [DevOpsDays Silicon Valley](https://www.devopsdays.org/events/2018-silicon-valley/welcome/). 
+
 ## Workshops
 
 ### Unix 102
